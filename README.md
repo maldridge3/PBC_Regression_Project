@@ -1,2 +1,3 @@
-# PBC_Regression_Project
-Cumulative project from a graduate course on applied regression analysis
+# Plasma Beta Carotene Regression Analysis 
+
+In Fall 2023, I took a graduate course on applied regression analysis. The course ended with a cumulative project in which I applied my skills to a medical dataset. In this project, I used linear regression to determine which variables significantly correlate with patient plasma beta carotene levels after an operation to biopsy or remove non-cancerous tissue. I then used a stepwise selection algorithm to build a model containing only essential variables. In this repository, you can find the R code as well as a report with more details on the context, methods, and findings.
